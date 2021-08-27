@@ -4,8 +4,7 @@
     "node": false
   },
   "extends": [
-    /** @see https://eslint.vuejs.org/rules/ */
-    "plugin:vue/vue3-recommended"
+    "eslint-config-ali/typescript/react"
   ],
   "parserOptions": {
     "parser": "@typescript-eslint/parser",
